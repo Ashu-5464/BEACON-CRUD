@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Curd from './Curd';
+
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
+
+import PostForm from './PostForm';
 
 
 function App() {
@@ -31,8 +33,9 @@ function App() {
             </nav>
 
             <Routes>
-              <Route path="Employee" element={<Curd/>}></Route>
-              {/* <Route path='Student' element={<Studentcurd/>}></Route> */}
+          
+              <Route path='Employee' element={<PostForm/>}></Route>
+               <Route path="/postForm/:id" element={<PostForm />} />
             </Routes>
          
         </BrowserRouter>
