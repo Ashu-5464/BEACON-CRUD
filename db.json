@@ -1,53 +1,53 @@
 {
   "employees": [
     {
-      "id": "2",
+      "id": "1",
+      "empName": "John patile",
+      "empContactNo": "1234567890",
+      "empEmail": "john.doe@gmail.com.com",
+      "salary": 50000
+    },
+    {
+      "id": 2,
       "empName": "Ashwini patole",
       "empContactNo": "9809090909",
       "empEmail": "ashwini@gmail.com",
       "salary": "8799"
     },
     {
-      "id": "3",
+      "id": 3,
       "empName": "aarohi",
       "empContactNo": "8798980909",
       "empEmail": "aarohi@gmail.com",
       "salary": "5000"
     },
     {
-      "id": "4",
+      "id": 4,
       "empName": "Adhiraj",
       "empContactNo": "7879898090",
       "empEmail": "adhiraj@gmail.com",
       "salary": "1000"
     },
     {
-      "id": "5",
+      "id": 5,
       "empName": "Ashwini patole",
       "empContactNo": "9809090989",
       "empEmail": "ashwini@gmail.com",
       "salary": "8799"
     },
     {
-      "id": "6",
+      "id": 6,
       "empName": "himmat saragr",
       "empContactNo": "6768989898",
       "empEmail": "himmat@gmail.com",
       "salary": "6777"
     },
     {
-      "id": "7",
+      "id": 7,
       "empName": "Arnav saragr",
       "empContactNo": "7879898989",
       "empEmail": "arnav@gmail.com",
       "salary": "900000000"
-    },
-    {
-      "id": 0,
-      "empName": "Rutuja Mali",
-      "empContactNo": "98787676",
-      "empEmail": "Rutuja@gmail.com",
-      "salary": "4500"
     }
   ]
 }
